@@ -1,1 +1,15 @@
-{"Gandalf": {"nombre": "Olorin", "edad": "4789", "genero": "Mago"}, "Galadriel": {"nombre": "Galadriel", "edad": "2147", "genero": "Femenino"}, "Anillo": {"nombre": "Anillo Ãšnico", "edad": "1789", "genero": "No Binarix"}, "Leo": {"nombre": "Messi", "edad": "35", "genero": "Masculino"}, "Manny": {"nombre": "Manu Calavera", "edad": "37", "genero": "Masculino"}, "Guybrush": {"nombre": "Guybrush", "edad": "28", "genero": "Prefiero no decirlo"}, "Peter": {"nombre": "Pedro", "edad": "23", "genero": "Masculino"}, "Annu": {"nombre": "Anna", "edad": "14", "genero": "Femenino"}}
+{
+  "finanzas_personales": { "ID_curso": "01",
+  "tipo": "Curso",
+    "descripcion": "En este curso aprenderás a : Crear un presupuesto personal y realizar el seguimiento de gastos e ingresos. La importancia del ahorro y estrategias de inversión básicas, gestionar tus deudas y entender las tasas de interés y el crédito.",
+    "medio": "virtual",
+    "lugar": "(LINK A ZOOM)",
+    "horario": "09:00 a.m." },
+
+  "atencion_al_cliente_y_postventa": { "ID_curso": "02",
+  "tipo": "Curso",
+    "descripcion": "En este curso aprenderás a : Desarrollar actitudes y habilidades clave sobre atención al cliente como comunicación efectiva, resolución de conflictos, cierres de ventas y seguimientos, fidelización del cliente, recopilicación y aplicación de comentarios para una mejora continua y crear una cultura centrada en el cliente ",
+    "medio": "Presencial",
+    "lugar": "Lavalle 1877",
+    "hoario": "10:00 a.m."}
+}
