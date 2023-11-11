@@ -1,0 +1,14 @@
+{
+    "0001": {
+        "nombre": "Marie Curie",
+        "edad": "47",
+        "mis_cursos": "[finanzas_personales, atencion_al_cliente_y_post_venta]",
+        "microcrédito": "True"
+    },
+    "0002": {
+        "nombre": "Taylor Swift",
+        "edad": "30",
+        "mis_cursos": "[]",
+        "microcrédito": "False"
+    }
+}
