@@ -1,14 +1,1 @@
-{
-    "0001": {
-        "nombre": "Marie Curie",
-        "edad": "47",
-        "mis_cursos": "[finanzas_personales, atencion_al_cliente_y_post_venta]",
-        "microcrédito": "True"
-    },
-    "0002": {
-        "nombre": "Taylor Swift",
-        "edad": "30",
-        "mis_cursos": "[]",
-        "microcrédito": "False"
-    }
-}
+{"Gandalf": {"nombre": "Olorin", "edad": "4789", "genero": "Mago"}, "Galadriel": {"nombre": "Galadriel", "edad": "2147", "genero": "Femenino"}, "Anillo": {"nombre": "Anillo Ãšnico", "edad": "1789", "genero": "No Binarix"}, "Leo": {"nombre": "Messi", "edad": "35", "genero": "Masculino"}, "Manny": {"nombre": "Manu Calavera", "edad": "37", "genero": "Masculino"}, "Guybrush": {"nombre": "Guybrush", "edad": "28", "genero": "Prefiero no decirlo"}, "Peter": {"nombre": "Pedro", "edad": "23", "genero": "Masculino"}, "Annu": {"nombre": "Anna", "edad": "14", "genero": "Femenino"}}
