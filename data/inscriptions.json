@@ -2,21 +2,21 @@
     "0001": {
         "id_curso": "01",
         "id_user": "0001",
-        "status": "accepted"
+        "status": "aceptado"
     },
     "0002": {
         "id_curso": "02",
         "id_user": "0001",
-        "status": "accepted"
+        "status": "aceptado"
     },
     "0003": {
         "id_curso": "02",
         "id_user": "0001",
-        "status": "under review"
+        "status": "en espera"
     },
     "0004": {
         "id_curso": "02",
         "id_user": "0001",
-        "status": "failed"
+        "status": "rechazado"
     }
 }
